@@ -9,5 +9,5 @@ Data is sent via Bluetooth.
 The Arduino Project is in Folder arduino, teh Android App in Folder android.  
 The latest Status is as follows:  
 -   proved to work with live Temperature Data and artificial Rev Data from a commercial Signal Generator, everything in a Temperture / Frequency Range that can be expected under real-world Apllication.  
-The Problem, however, was: too much noise on the Rev Signal under real Race Bike running Conditions, despite all Efforts with Shielding etc.  
-Maybe there will be more Invertigation some time in the future...
+-   The Problem, however, was: too much noise on the Rev Signal under real Race Bike running Conditions, despite all Efforts with Shielding etc.  
+-   Maybe there will be more Invertigation some time in the future...

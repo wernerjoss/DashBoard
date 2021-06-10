@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/josswern/Dropbox/src/android/BT_showval/app/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_action_search.png",
+        "source": "/home/josswern/Dropbox/src/android/BT_showval/app/src/main/res/drawable-mdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/josswern/Dropbox/src/android/BT_showval/app/build/intermediates/res/merged/release/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/home/josswern/Dropbox/src/android/BT_showval/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    }
+]

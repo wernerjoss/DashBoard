@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/josswern/Dropbox/src/android/BT_showval/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/josswern/Dropbox/src/android/BT_showval/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/josswern/Dropbox/src/android/DashBoard/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/josswern/Dropbox/src/android/DashBoard/app/src/main/res/layout/activity_main.xml"
+    }
+]

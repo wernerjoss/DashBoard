@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DataText">No Data</string>
+    <string name="app_name">BT_showval</string>
+    <string name="close">Close BT Device</string>
+    <string name="open">Open BT Device</string>
+    <string name="title_activity_main">BT_showval</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

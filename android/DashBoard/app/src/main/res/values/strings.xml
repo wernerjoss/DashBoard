@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">DashBoard</string>
+    <string name="title_activity_main">DashBoard</string>
+    <string name="open">Open BT Device</string>
+    <string name="close">Close BT Device</string>
+    <string name="DataText">No Data</string>
+
+</resources>

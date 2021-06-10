@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/StatusText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="No BT Device connected"
+        android:layout_alignParentTop="true"
+        android:layout_alignRight="@+id/imageView1"
+        android:textSize="20dp" />
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:alpha="0.5"
+        android:src="@drawable/hoernerfranzracing" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/TempText"
+        android:textSize="50dp"
+        android:layout_below="@+id/StatusText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/open"
+        android:id="@+id/open"
+        android:layout_above="@+id/close"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/close"
+        android:id="@+id/close"
+        android:layout_above="@+id/imageView1"
+        android:layout_alignLeft="@+id/open"
+        android:layout_marginBottom="59dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/RpmText"
+        android:textSize="50dp"
+        android:layout_below="@+id/TempText"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="0dp" />
+
+</RelativeLayout>
+

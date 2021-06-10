@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/josswern/Dropbox/src/android/BT_showval/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_full_open_on_phone.png",
+        "source": "/home/josswern/Dropbox/src/android/BT_showval/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/drawable-xhdpi/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/home/josswern/Dropbox/src/android/DashBoard/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/home/josswern/Dropbox/src/android/DashBoard/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/josswern/Dropbox/src/android/BT_showval/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_action_search.png",
+        "source": "/home/josswern/Dropbox/src/android/BT_showval/app/src/main/res/drawable-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/josswern/Dropbox/src/android/DashBoard/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_action_search.png",
+        "source": "/home/josswern/Dropbox/src/android/DashBoard/app/src/main/res/drawable-xhdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/josswern/Dropbox/src/android/BT_showval/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/home/josswern/Dropbox/src/android/BT_showval/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]
